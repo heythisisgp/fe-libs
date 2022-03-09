@@ -41,8 +41,6 @@ State management libraries
 - [React Redux](https://github.com/reduxjs/react-redux)
 - [Redux toolkit](https://github.com/reduxjs/redux-toolkit)
 - [Rematch](https://github.com/rematch/rematch)
-- [Jotai](https://github.com/pmndrs/jotai)
-- [Unstated](https://github.com/jamiebuilds/unstated)
 - [NgRx](https://github.com/ngrx/platform)
 - [NgXs](https://github.com/ngxs/store)
 - [VueX](https://github.com/vuejs/vuex)
