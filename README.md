@@ -3,20 +3,27 @@
   <h4>Collection of frontend open-source libraries</h4>
 </div>
 
-#### Popular frontend frameworks
+### JavaScript frameworks
 
 - [React](https://github.com/facebook/react)
 - [Angular](https://github.com/angular/angular)
 - [VueJS](https://github.com/vuejs/vue)
 - [Svelte](https://github.com/sveltejs/svelte)
-
-Other frontend frameworks
-
 - [SolidJS](https://github.com/solidjs/solid)
 - [Preact](https://github.com/preactjs/preact)
-- [Backbone](https://github.com/jashkenas/backbone)
-- [Ember](https://github.com/emberjs/ember.js)
-- [Knockout](https://github.com/knockout/knockout)
+
+CSS frameworks
+
+- [Bootstrap](https://github.com/twbs/bootstrap)
+- [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+- [Bulma](https://github.com/jgthms/bulma)
+
+Component libraries
+
+- [Material UI](https://github.com/mui/material-ui)
+- [Ant Design](https://github.com/ant-design/ant-design/)
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
 Static type libraries
 
@@ -27,31 +34,41 @@ Static type libraries
 State management libraries
 
 - [Redux](https://github.com/reduxjs/redux)
-- [React Redux](https://github.com/reduxjs/react-redux)
 - [MobX](https://github.com/mobxjs/mobx)
-- [Rematch](https://github.com/rematch/rematch)
-- [Zustand](https://github.com/pmndrs/zustand)
-- [Redux toolkit](https://github.com/reduxjs/redux-toolkit)
-- [Recoil](https://github.com/facebookexperimental/Recoil)
 - [XState](https://github.com/statelyai/xstate)
+- [Recoil](https://github.com/facebookexperimental/Recoil)
+- [Zustand](https://github.com/pmndrs/zustand)
+- [React Redux](https://github.com/reduxjs/react-redux)
+- [Redux toolkit](https://github.com/reduxjs/redux-toolkit)
+- [Rematch](https://github.com/rematch/rematch)
 - [Jotai](https://github.com/pmndrs/jotai)
-- [Hook State](https://github.com/avkonst/hookstate)
-- [Akita](https://github.com/datorama/akita)
-- [Valtio](https://github.com/pmndrs/valtio)
 - [Unstated](https://github.com/jamiebuilds/unstated)
 - [NgRx](https://github.com/ngrx/platform)
 - [NgXs](https://github.com/ngxs/store)
 - [VueX](https://github.com/vuejs/vuex)
 - [Pinia](https://github.com/vuejs/pinia)
 
-JavaScript functional libraries
+Testing libraries
+
+- [Jest](https://github.com/facebook/jest)
+- [Cypress](https://github.com/cypress-io/cypress)
+- [Mocha](https://github.com/mochajs/mocha)
+- [Testing library](https://github.com/testing-library/react-testing-library)
+
+JS functional libraries
 
 - [RxJS](https://github.com/reactivex/rxjs)
-- [Lodash](https://github.com/lodash/lodash)
-- [Underscore](https://github.com/jashkenas/underscore)
 - [Cyclejs](https://github.com/cyclejs/cyclejs)
 - [Baconjs](https://github.com/baconjs/bacon.js)
-- [Sugar](https://github.com/andrewplummer/Sugar)
 - [Ramda](https://github.com/ramda/ramda)
-- [LazyJS](https://github.com/dtao/lazy.js)
 - [Fp-ts](https://github.com/gcanti/fp-ts)
+
+JS utitlity libraries
+
+- [Lodash](https://github.com/lodash/lodash)
+- [Underscore](https://github.com/jashkenas/underscore)
+- [Sugar](https://github.com/andrewplummer/Sugar)
+- [LazyJS](https://github.com/dtao/lazy.js)
+- [Date Fns](https://github.com/date-fns/date-fns)
+- [DayJS](https://github.com/iamkun/dayjs/)
+- [Luxon](https://github.com/moment/luxon)
