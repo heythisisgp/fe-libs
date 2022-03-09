@@ -43,3 +43,15 @@ State management libraries
 - [NgXs](https://github.com/ngxs/store)
 - [VueX](https://github.com/vuejs/vuex)
 - [Pinia](https://github.com/vuejs/pinia)
+
+JavaScript functional libraries
+
+- [RxJS](https://github.com/reactivex/rxjs)
+- [Lodash](https://github.com/lodash/lodash)
+- [Underscore](https://github.com/jashkenas/underscore)
+- [Cyclejs](https://github.com/cyclejs/cyclejs)
+- [Baconjs](https://github.com/baconjs/bacon.js)
+- [Sugar](https://github.com/andrewplummer/Sugar)
+- [Ramda](https://github.com/ramda/ramda)
+- [LazyJS](https://github.com/dtao/lazy.js)
+- [Fp-ts](https://github.com/gcanti/fp-ts)
